@@ -1,0 +1,12 @@
+C:\CURSO-API\XGAME\XGAME.Domain\bin\Debug\XGAME.Domain.dll
+C:\CURSO-API\XGAME\XGAME.Domain\bin\Debug\XGAME.Domain.pdb
+C:\CURSO-API\XGAME\XGAME.Domain\obj\Debug\XGAME.Domain.csprojAssemblyReference.cache
+C:\CURSO-API\XGAME\XGAME.Domain\obj\Debug\XGAME.Domain.csproj.CoreCompileInputs.cache
+C:\CURSO-API\XGAME\XGAME.Domain\obj\Debug\XGAME.Domain.dll
+C:\CURSO-API\XGAME\XGAME.Domain\obj\Debug\XGAME.Domain.pdb
+C:\UDEMY\CURSO-API\XGAME\XGAME.Domain\bin\Debug\XGAME.Domain.dll
+C:\UDEMY\CURSO-API\XGAME\XGAME.Domain\bin\Debug\XGAME.Domain.pdb
+C:\UDEMY\CURSO-API\XGAME\XGAME.Domain\obj\Debug\XGAME.Domain.csprojAssemblyReference.cache
+C:\UDEMY\CURSO-API\XGAME\XGAME.Domain\obj\Debug\XGAME.Domain.csproj.CoreCompileInputs.cache
+C:\UDEMY\CURSO-API\XGAME\XGAME.Domain\obj\Debug\XGAME.Domain.dll
+C:\UDEMY\CURSO-API\XGAME\XGAME.Domain\obj\Debug\XGAME.Domain.pdb
